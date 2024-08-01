@@ -1,0 +1,2 @@
+package MongoClientConnectionExampleTest;public class MongoClientConnectionExampleTest {
+}
